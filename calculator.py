@@ -23,5 +23,4 @@ elif operation == "/":
 else:
     result = "Invalid operation" 
 
-# Output
 print("Result: ", result)            
