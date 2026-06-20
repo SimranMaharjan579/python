@@ -6,5 +6,5 @@ This is a simple Python project created to learn Git and GitHub.
 - hello.py → prints a message
 - calculator.py → performs calculations between 2 numbers
 ## Run
-python hello.py
+python hello.py\n
 python calculator.py
